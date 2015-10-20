@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Clean URL
+// @name           Slickdeals Clean URL
 // @author         h.zhuang
 // @contributor    Stephen Schrauger
 // @version        2015.05.28
